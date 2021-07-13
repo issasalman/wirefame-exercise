@@ -30,7 +30,7 @@ header nav ul li a{
     margin-right: 100px;
     
     position: relative;
-    top: -43px;
+    top: -28px;
     
 }
 .one{
@@ -39,10 +39,23 @@ width: 100%;
 margin: 20px;
 
 }
-.placeholder{
-   margin: 20px;
-}
 
+.two{
+margin-left:10px ;
+margin-right: 10px;
+
+
+
+}
+.logo{
+    margin-right: 50px;
+
+    
+}
+.placeholder{
+   padding: 13px ;
+   
+}
 .left{
     float: left;
     margin: 20px;
@@ -73,11 +86,12 @@ footer {
     margin: 20px;
 }
 main{
-    margin-left: 142px;
+    margin-left: 200px;
 
 }
 button {
-
+height: 30px;
+width: 135px;
     background-color: black;
     color: cornsilk;
 }
